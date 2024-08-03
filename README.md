@@ -4,4 +4,4 @@
 
 Action Identifier System is a powerful tool designed to automate the analysis of hand signs using LSTM Layers.
 
-![Flowchart](Images/action_identifier_pipeline.png)
+![](Images/action_identifier_pipeline.png)
