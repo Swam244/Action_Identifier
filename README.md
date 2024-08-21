@@ -9,6 +9,8 @@ Action Identifier System is a powerful tool designed to automate the analysis of
 ## Interactive Action Detection
 Our platform offers an interactive action detection experience. It captures video frames, processes them to extract keypoints, and uses a trained LSTM model to identify specific actions.
 
+![](Images/image.png)
+
 ### Key Features
 #### Data Collection
 The data collection process involves capturing video frames using OpenCV and processing them through MediaPipe to extract keypoints. This data is then stored for further processing.
