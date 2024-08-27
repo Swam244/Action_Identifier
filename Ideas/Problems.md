@@ -1,6 +1,6 @@
-## Multiple Preople
+## Noise
 
-Holistics Shifting due to multiple people in frame.
+Multiple People Holistics Shifting due to multiple people in frame.
 
 ## Training
 
